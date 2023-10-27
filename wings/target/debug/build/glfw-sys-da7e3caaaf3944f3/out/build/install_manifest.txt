@@ -1,0 +1,8 @@
+/home/jan/Bin/WingsWithRust/wings/target/debug/build/glfw-sys-da7e3caaaf3944f3/out/lib/libglfw3.a
+/home/jan/Bin/WingsWithRust/wings/target/debug/build/glfw-sys-da7e3caaaf3944f3/out/include/GLFW/glfw3native.h
+/home/jan/Bin/WingsWithRust/wings/target/debug/build/glfw-sys-da7e3caaaf3944f3/out/include/GLFW/glfw3.h
+/home/jan/Bin/WingsWithRust/wings/target/debug/build/glfw-sys-da7e3caaaf3944f3/out/lib/cmake/glfw3/glfw3Config.cmake
+/home/jan/Bin/WingsWithRust/wings/target/debug/build/glfw-sys-da7e3caaaf3944f3/out/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+/home/jan/Bin/WingsWithRust/wings/target/debug/build/glfw-sys-da7e3caaaf3944f3/out/lib/cmake/glfw3/glfw3Targets.cmake
+/home/jan/Bin/WingsWithRust/wings/target/debug/build/glfw-sys-da7e3caaaf3944f3/out/lib/cmake/glfw3/glfw3Targets-debug.cmake
+/home/jan/Bin/WingsWithRust/wings/target/debug/build/glfw-sys-da7e3caaaf3944f3/out/lib/pkgconfig/glfw3.pc
