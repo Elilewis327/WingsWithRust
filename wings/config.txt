@@ -1,0 +1,3 @@
+vertical_resolution=1080
+horizontal_resolution=1920
+fps_max=60
